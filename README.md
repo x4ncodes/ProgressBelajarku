@@ -10,5 +10,4 @@ Repository ini berisikan progress belajarku selama mengikuti 6 bulan Dicoding Ac
 
 **17 Agustus 2023** *(Progress 100%)*
 - Menyelesaikan materi belajar "Memulai dasar pemrograman untuk menjadi pengembang software"
-- 
   
